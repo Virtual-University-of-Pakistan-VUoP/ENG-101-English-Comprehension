@@ -1,0 +1,232 @@
+<div class="m-portlet__body">
+                                        <!--begin::Section-->
+                                        <div class="m-scrollable mCustomScrollbar _mCS_5 mCS-autoHide" data-scrollbar-shown="true" data-scrollable="true" data-max-height="650">
+                                            <div class="m-accordion m-accordion--bordered" id="m_accordion_2" role="tablist">                                                               
+                                                 <!--begin::Item-->
+                                                
+                                                        <div class="m-accordion__item">
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#152_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-icon">
+                                                                    <i class="fa fa-question-circle"></i>
+                                                                </span>
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is the difference between the abbreviation i.e., and e.g.
+                                                                <span class="m-accordion__item-mode"></span>
+                                                            </div>
+                                                            <div class="m-accordion__item-body collapse" id="152_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                <div class="m-accordion__item-content">
+                                                                    <p style="word-break:break-word;">
+                                                                        The abbreviation i.e. (i.e., that is) is often confused with other abbreviations (e.g., e.g.). The i.e. generally is used to introduce matter that is explanatory as opposed to being the name of an example or list of examples. If you can say for example as a substitute for the abbreviation, you want to use e.g., not i.e. Do not italicize or underline these abbreviations.
+                                                                    </p>
+                                                                </div>
+                                                        </div>
+                                                    
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#160_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is the difference between abbreviations and acronyms.
+                                                            <div class="m-accordion__item-body collapse" id="160_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        There is a difference between acronyms and abbreviations. An acronym is usually formed by taking the first initials of a phrase or compounded-word and using those initials to form a word that stands for something. Thus NATO, which we pronounce NATOH, is an acronym for North Atlantic Treaty Organization, and LASER (which we pronounce "lazer"), is an acronym for Light Amplification by Stimulated Emission of Radiation. FBI, then, is not really an acronym for the Federal Bureau of Investigation; it is an abbreviation. AIDS is an acronym; HIV is an abbreviation. URL is an abbreviation for Uniform Resource Locator (World Wide Web address), but many people pronounce it as "Earl," making it a true acronym, and others insist on pronouncing it as three separate letters, "U * R * L," thus making it an abbreviation.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#145_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a fact?
+                                                            <div class="m-accordion__item-body collapse" id="145_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        A fact is a statement that can be proved true through objective evidence. This evidence may be physical proof or the testimony of witness (spoken or written).
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#146_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is an opinion?
+                                                            <div class="m-accordion__item-body collapse" id="146_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        An opinion is a statement that can not be objectively proved true or false. Opinions usually express beliefs, feelings, judgements that a person may have on or about a subject.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#224_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is imaginative writing?
+                                                            <div class="m-accordion__item-body collapse" id="224_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Imaginative writing means creative writing. Creative writngs include novels, short stories,a piece of writing dealing with fictional situation. It can also be a poem.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#319_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">Whish are the three common purposes of communication?
+                                                            <div class="m-accordion__item-body collapse" id="319_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        &lt;html&gt;
+
+&lt;head&gt;
+&lt;meta name="GENERATOR" content="Microsoft FrontPage 5.0"&gt;
+&lt;meta name="ProgId" content="FrontPage.Editor.Document"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;New Page 1&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;The three common purposes of communication are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To inform&lt;br&gt;
+&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;To persuade&lt;br&gt;
+  &lt;li&gt;To entertain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#133_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">Which factors show that your reading comprehension is not good?
+                                                            <div class="m-accordion__item-body collapse" id="133_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Reading speed and comprehension are related. If you are not an experienced reader then reading faster can make your comprehention slow. Moreover, vocalisation i.e., reading words aloud can also make you comprehend less.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#134_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">Which things should be kept in mind while reading?
+                                                            <div class="m-accordion__item-body collapse" id="134_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        As a skilled reader you must recognize the writer's purpose, tone and attitude.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#135_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is practical writing?
+                                                            <div class="m-accordion__item-body collapse" id="135_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Practical writing deals mainly with facts. It may be a report, an account or someone expressing his opinion on a particular matter, a series of instruction or a set of statistics.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#136_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What does "making inferences" mean?
+                                                            <div class="m-accordion__item-body collapse" id="136_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        &lt;p:colorscheme
+ colors="#0000FF,#FFFFFF,#000000,#FFFF00,#FF9900,#00FFFF,#FF0000,#969696"/&gt;
+&lt;div v:shape="_x0000_s1026" class=O&gt;
+&lt;div style='mso-line-spacing:"100 50 0";mso-margin-left-alt:288;mso-char-wrap:
+1;mso-kinsoku-overflow:1'&gt;&lt;span style='font-family:"Times New Roman";
+font-size:178%;color:black;mso-color-index:2'&gt;&lt;span style='mso-special-format:
+"numbullet3\,1";position:absolute;left:-5.23%'&gt;1.&lt;/span&gt;&lt;/span&gt;&lt;span
+style='font-family:"Times New Roman";color:#0000FF;mso-color-index:
+2'&gt;You are familiar with the expression “to read between the lines”, which means that you pick up ideas that are not directly stated in the material you are reading. The writer is giving or making a suggestion but stating it directly i.e. he is implying something. These implied ideas are often important for a full understanding of what the writer means. It is this discovering of ideas in writing that are not stated directly that is called “making inferences” or drawing conclusions.
+ &lt;/span&gt;&lt;/div&gt;
+1;mso-kinsoku-overflow:1'&gt; &lt;/div&gt;
+1;mso-kinsoku-overflow:1'&gt;&amp;nbsp;&lt;/div&gt;
+font-size:32pt;color:black;mso-color-index:2'&gt;
+&lt;/span&gt;&lt;/div&gt;
+1;mso-kinsoku-overflow:1'&gt;&lt;/div&gt;
+&lt;/div&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#223_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is skimming?
+                                                            <div class="m-accordion__item-body collapse" id="223_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Skimming means reading a text quickly to get the gist of the text.The reader is just concerned with the main idea and leaves the minor or supporting details. Skimming is a useful technique especially in extensive reading.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#131_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a prefix, stem and suffix?
+                                                            <div class="m-accordion__item-body collapse" id="131_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+&lt;meta http-equiv="Content-Language" content="en-us"&gt;
+&lt;p&gt;The stem of a word is its basic form, the fundamental element which is common 
+to all the other forms of a word. A prefix is a form which is fixed to to the 
+beginning of a stem; a suffix is a form which is fixed to the end of a stem. 
+e.g. in the word &lt;b&gt;immeasurable&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Stem = measure&lt;/p&gt;
+&lt;p&gt;Suffix = able&lt;/p&gt;
+&lt;p&gt;Prefix = im&lt;/p&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#132_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is scanning?
+                                                            <div class="m-accordion__item-body collapse" id="132_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Scanning means reading a text quickly in order to look for a specific piece of information e.g.,looking for a particular number in a telephone directory is scanning for information.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#102_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a synonym?
+                                                            <div class="m-accordion__item-body collapse" id="102_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Synonym is a word having similar meaning.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#103_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is an antonym?
+                                                            <div class="m-accordion__item-body collapse" id="103_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Antonym is a word having opposite meaning.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#104_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">How many letters are there of English alphabets?
+                                                            <div class="m-accordion__item-body collapse" id="104_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        There are 26 letters of English alphabets.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#105_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a phoneme?
+                                                            <div class="m-accordion__item-body collapse" id="105_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        The smallest unit of sound is called a phoneme.The sound of a word which you utter is called a phoneme.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#112_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What are vowels?
+                                                            <div class="m-accordion__item-body collapse" id="112_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Vowels are sounds produced without any obstruction in the mouth.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#113_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">How are phonemic symbols shown in a dictionary?
+                                                            <div class="m-accordion__item-body collapse" id="113_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Phonemic symbols are given in slash brackets in the dictionary. / /
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#114_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a dipthong vowel?
+                                                            <div class="m-accordion__item-body collapse" id="114_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+&lt;p&gt;A dipthong vowel is the sound which is produced by combining two vowel sounds. In 
+diphthongs, there is a movement or glide from one vowel sound to another.&lt;/p&gt;
+&lt;p&gt;Moreover, there are 8 diphthong vowels in English.&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;/p&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#115_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a consonant sound?
+                                                            <div class="m-accordion__item-body collapse" id="115_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        A consonant is a sound which is articulated with some obstruction in the mouth.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#116_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is stress?
+                                                            <div class="m-accordion__item-body collapse" id="116_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Stress is the extra force, used in pronunciation or speaking, on a particular word. A dictionary indicates stress by a tiny mark on top of a word.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#117_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is the topic of a paragraph?
+                                                            <div class="m-accordion__item-body collapse" id="117_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        The topic of a paragraph is the subject of the whole paragraph. It tells what the whole paragraph is about.It can usually be expressed in a word or two.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#128_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What are connectives?
+                                                            <div class="m-accordion__item-body collapse" id="128_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+&lt;p&gt;Connectives are links which are made by conjunctions that join ideas into 
+some kind of relationship within text. These words or phrases are also known as
+&lt;b&gt;transitional markers &lt;/b&gt;that connect ideas together. They indicate:&lt;/p&gt;
+  &lt;li&gt;result&lt;/li&gt;
+  &lt;li&gt;contrast&lt;/li&gt;
+  &lt;li&gt;illustration&lt;/li&gt;
+  &lt;li&gt;cause and effect&lt;/li&gt;
+  &lt;li&gt;a series/time sequence&lt;/li&gt;
+  &lt;li&gt;addition&lt;/li&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#129_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is phonetics?
+                                                            <div class="m-accordion__item-body collapse" id="129_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Phonetics is the precise study of human speech sounds - how they are produced, how they are transmitted and how they are heard.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#130_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is phonology?
+                                                            <div class="m-accordion__item-body collapse" id="130_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Phonology is the broader study of major speech sounds, and their organisation, in a particular language.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#316_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is a topic sentence?
+                                                            <div class="m-accordion__item-body collapse" id="316_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        The sentence which states the main idea of a paragraph is the topic sentence of that paragraph. It may occur anywhere in the paragraph_____ in the beginning, in the middle or at the end.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#214_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">How many phonemes are there in English?
+                                                            <div class="m-accordion__item-body collapse" id="214_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        In English 44 sounds of phonemes have been identified.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#215_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">How many vowel phonemes are there in English language?
+                                                            <div class="m-accordion__item-body collapse" id="215_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        There are 20 vowel phonemes in English language.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#222_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What are references?
+                                                            <div class="m-accordion__item-body collapse" id="222_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        References are words in a sentence that refer to each other. They can be pronouns , demonstrative pronouns, adverbs etc.,as well as substitute the words coming earlier ar later.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#106_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">Define a dictionary.
+                                                            <div class="m-accordion__item-body collapse" id="106_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+&lt;style&gt;
+&lt;!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+--&gt;
+&lt;/style&gt;
+&lt;p class="MsoNormal"&gt;A dictionary is a book that not only lists and records the 
+words of a language but it also tells you how speakers of the language spell, 
+pronounce, define, explain, and use the words of their language.&lt;/p&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#2_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What are some of the uses of a dictionary?
+                                                            <div class="m-accordion__item-body collapse" id="2_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+ li.MsoNormal
+&lt;p&gt;The following is a list of things that can be learned from a dictionary.&lt;/p&gt;
+&lt;ul style="margin-top: 0in; margin-bottom: 0in" type="disc"&gt;
+  &lt;li class="MsoNormal"&gt;Spelling&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Pronunciation&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Parts of speech&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Origin of words&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Meaning/ explanation&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Usage/restrictive labels&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Synonyms&amp;amp; antonyms&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;Foreign words and phrases&lt;/li&gt;
+  &lt;li class="MsoNormal"&gt;General information.&lt;/li&gt;
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#61_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is an archaic?
+                                                            <div class="m-accordion__item-body collapse" id="61_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Archaic is a word that is no longer in use.
+                                                            <div class="m-accordion__item-head collapsed" role="tab" id="m_accordion_2_item_1_head" data-toggle="collapse" href="#62_Larget" aria-expanded="    false">
+                                                                <span class="m-accordion__item-title" style="word-break:break-word;">What is an obsolete?
+                                                            <div class="m-accordion__item-body collapse" id="62_Larget" role="tabpanel" aria-labelledby="m_accordion_2_item_1_head" data-parent="#m_accordion_2">
+                                                                        Obsolete is a word that is no longer in use.
+                                                <!--end::Item-->
+                                            </div>
+                                            <!--end::Section-->
+                                        </div>
+                                    </div>
